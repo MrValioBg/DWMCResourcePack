@@ -1,4 +1,4 @@
-package com.example.dwmcresourcepack;
+package me.mrvaliobg.software.dwmcresourcepack;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
